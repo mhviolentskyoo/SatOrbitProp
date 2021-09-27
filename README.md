@@ -4,9 +4,10 @@ Control:
         Control angles (cone and clock angles) of an ideal solar sail 
 Disturbances:
         Earth's gravitational disturbances:
-				J2 J22 J3 J31 J32 J33
-				Thirdbody gravitational accelerations:
+		    J2 J22 J3 J31 J32 J33
+	    	Thirdbody gravitational accelerations:
 				from the Sun and the Moon		
+
 
 The main file: orbit_propagation.py
 Input : 
